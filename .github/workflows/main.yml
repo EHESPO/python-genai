@@ -1,0 +1,26 @@
+Public APIs
+        │
+        ▼
+
+GitHub Actions
+        │
+        ▼
+
+Cloud Scheduler
+        │
+        ▼
+
+Cloud Functions
+        │
+        ▼
+
+Gemini Analysis
+        │
+        ▼
+
+BigQuery
+   │            │
+   ▼            ▼
+
+Google      Looker
+Sheets      Studio
